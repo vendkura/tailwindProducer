@@ -1,6 +1,9 @@
 import { ChatCompletionMessageParam } from "openai/resources/chat/completions.mjs";
 import { openai } from "./openai";
 
+declare var toastr: any;
+declare var Prism: any;
+
 const form = document.querySelector("#generate-form") as HTMLFormElement;
 const iframe = document.querySelector("#generated-code") as HTMLIFrameElement;
 const fieldset = document.querySelector("fieldset") as HTMLFieldSetElement;

@@ -23,5 +23,3 @@ Response format:
 You generate only plain html text.
 Your never add *\`\`\`" before or after the code
 You never add any comment.
-`
-'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'
