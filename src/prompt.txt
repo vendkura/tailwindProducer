@@ -23,3 +23,6 @@ Response format:
 You generate only plain html text.
 Your never add *\`\`\`" before or after the code
 You never add any comment.
+
+
+Consider that the presentation is addressed to an english teach and his students who are sudying to have B2 level in english.
